@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:C23E24,100:E8553A&height=200&section=header&text=Laiba%20Imran&fontSize=50&fontColor=FFFFFF&desc=Web%20Developer%20%7C%20Software%20Engineer%20%7C%20UI%2FUX%20Designer&descSize=18&descAlignY=60&descColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Laiba%20Imran&fontSize=60&fontColor=E8553A&desc=Web%20Developer%20%7C%20Software%20Engineer%20%7C%20UI%2FUX%20Designer&descSize=20&descAlignY=65&descColor=2F7F73&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -233,20 +233,5 @@ open_to:
 ```
 
 <br>
-
-### `$ connect --with-me`
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-E8553A?style=for-the-badge&logo=vercel&logoColor=white)](https://laibaimranportfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2F7F73?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiba-imran29/)
-[![Behance](https://img.shields.io/badge/Behance-E8553A?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/laibaimran22)
-[![Email](https://img.shields.io/badge/Email-2F7F73?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misslaiba29@gmail.com)
-
-<br>
-
-*"Building clean, human-centered web experiences, one interface at a time."*
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C23E24,100:E8553A&height=120&section=footer" width="100%"/>
