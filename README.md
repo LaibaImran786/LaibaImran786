@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:D9472B,100:FF6B4A&height=200&section=header&text=Laiba%20Imran&fontSize=50&fontColor=FFFFFF&desc=Web%20Developer%20%7C%20Software%20Engineer%20%7C%20UI%2FUX%20Designer&descSize=18&descAlignY=60&descColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:C23E24,100:E8553A&height=200&section=header&text=Laiba%20Imran&fontSize=50&fontColor=FFFFFF&desc=Web%20Developer%20%7C%20Software%20Engineer%20%7C%20UI%2FUX%20Designer&descSize=18&descAlignY=60&descColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -8,33 +8,33 @@
 
 ### `$ whoami`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=FF6B4A&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Laiba+Imran;Web+Developer+%7C+3%2B+Years+of+Experience;React+%2B+TypeScript+%2B+Flask+%2B+Supabase;Built%3A+EchoNote%2C+AIFlix%2C+Smart+Study+Focus+System;Status%3A+Open+to+Developer+%26+Software+Engineer+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=E8553A&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Laiba+Imran;Web+Developer+%7C+3%2B+Years+of+Experience;React+%2B+TypeScript+%2B+Flask+%2B+Supabase;Built%3A+EchoNote%2C+AIFlix%2C+Smart+Study+Focus+System;Status%3A+Open+to+Developer+%26+Software+Engineer+roles" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
 
-![Degree](https://img.shields.io/badge/BS_Computer_Science-FF6B4A?style=flat-square&logoColor=white)
-![University](https://img.shields.io/badge/Univ._of_Agriculture%2C_Faisalabad-4A9B8E?style=flat-square&logoColor=white)
-![Location](https://img.shields.io/badge/Faisalabad%2C_Pakistan-FF6B4A?style=flat-square&logoColor=white)
+![Degree](https://img.shields.io/badge/BS_Computer_Science-E8553A?style=flat-square&logoColor=white)
+![University](https://img.shields.io/badge/Univ._of_Agriculture%2C_Faisalabad-2F7F73?style=flat-square&logoColor=white)
+![Location](https://img.shields.io/badge/Faisalabad%2C_Pakistan-E8553A?style=flat-square&logoColor=white)
 
 </div>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B4A?style=for-the-badge&logo=vercel&logoColor=white)](https://laibaimranportfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4A9B8E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiba-imran29/)
-[![Behance](https://img.shields.io/badge/Behance-FF6B4A?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/laibaimran22)
-[![Email](https://img.shields.io/badge/Email-4A9B8E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misslaiba29@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FF6B4A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaibaImran786)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E8553A?style=for-the-badge&logo=vercel&logoColor=white)](https://laibaimranportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2F7F73?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiba-imran29/)
+[![Behance](https://img.shields.io/badge/Behance-E8553A?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/laibaimran22)
+[![Email](https://img.shields.io/badge/Email-2F7F73?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misslaiba29@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-E8553A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaibaImran786)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=LaibaImran786&color=FF6B4A&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/LaibaImran786?label=Followers&style=flat-square&color=4A9B8E)
-![Stars](https://img.shields.io/github/stars/LaibaImran786?label=Stars&style=flat-square&color=FF6B4A)
+![Profile Views](https://komarev.com/ghpvc/?username=LaibaImran786&color=E8553A&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/LaibaImran786?label=Followers&style=flat-square&color=2F7F73)
+![Stars](https://img.shields.io/github/stars/LaibaImran786?label=Stars&style=flat-square&color=E8553A)
 
 </div>
 
@@ -69,12 +69,12 @@ OPEN_TO  = ["Developer", "Software Engineer"]
 
 <div align="center">
 
-![Web Development](https://img.shields.io/badge/Web_Development-FF6B4A?style=flat-square&logoColor=white)
-![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-4A9B8E?style=flat-square&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B4A?style=flat-square&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-4A9B8E?style=flat-square&logoColor=white)
-![AI-powered Apps](https://img.shields.io/badge/AI--powered_Apps-FF6B4A?style=flat-square&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-4A9B8E?style=flat-square&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web_Development-E8553A?style=flat-square&logoColor=white)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-2F7F73?style=flat-square&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-E8553A?style=flat-square&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-2F7F73?style=flat-square&logoColor=white)
+![AI-powered Apps](https://img.shields.io/badge/AI--powered_Apps-E8553A?style=flat-square&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-2F7F73?style=flat-square&logoColor=white)
 
 </div>
 
@@ -193,58 +193,11 @@ Real-time computer vision tool that detects faces and classifies expressions (ha
 
 <div align="center">
 
-[![Education](https://img.shields.io/badge/BS_Computer_Science-University_of_Agriculture%2C_Faisalabad-FF6B4A?style=for-the-badge&logoColor=white)](https://github.com/LaibaImran786)
+[![Education](https://img.shields.io/badge/BS_Computer_Science-University_of_Agriculture%2C_Faisalabad-E8553A?style=for-the-badge&logoColor=white)](https://github.com/LaibaImran786)
 
 </div>
 
 Certifications: Graphic Design (Saylani Mass IT Training Centre, 2025) | SEO & Digital Marketing (DigiSkills, 2024) | WordPress Development & Freelancing (DigiSkills, 2024)
-
-<br>
-
-### `$ github --analytics`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LaibaImran786&show_icons=true&bg_color=FFF8F3&title_color=FF6B4A&icon_color=4A9B8E&text_color=2B2B2B&border_color=FF6B4A&hide_border=false" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaibaImran786&layout=compact&bg_color=FFF8F3&title_color=FF6B4A&text_color=2B2B2B&border_color=FF6B4A&hide_border=false" width="48%" />
-
-<img src="https://streak-stats.demolab.com?user=LaibaImran786&background=FFF8F3&ring=FF6B4A&fire=FF6B4A&currStreakLabel=FF6B4A&sideLabels=2B2B2B&sideNums=2B2B2B&currStreakNum=2B2B2B&dates=4A9B8E&border=FF6B4A&hide_border=false" width="60%" />
-
-</div>
-
-<br>
-
-### `$ show --trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LaibaImran786&theme=juicyfruit&row=1&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
-<br>
-
-### `$ show --activity-graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LaibaImran786&bg_color=FFF8F3&color=2B2B2B&line=FF6B4A&point=4A9B8E&area=true&area_color=FF6B4A&hide_border=true" width="100%" />
-
-</div>
-
-<br>
-
-### `$ show --summary-cards`
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=LaibaImran786&theme=graywhite" width="100%" /><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=LaibaImran786&theme=graywhite" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=LaibaImran786&theme=graywhite" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=LaibaImran786&theme=graywhite" width="32%" /><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time.svg?username=LaibaImran786&theme=graywhite&utcOffset=5" width="100%" />
-
-</div>
 
 <br>
 
@@ -285,10 +238,10 @@ open_to:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B4A?style=for-the-badge&logo=vercel&logoColor=white)](https://laibaimranportfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4A9B8E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiba-imran29/)
-[![Behance](https://img.shields.io/badge/Behance-FF6B4A?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/laibaimran22)
-[![Email](https://img.shields.io/badge/Email-4A9B8E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misslaiba29@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E8553A?style=for-the-badge&logo=vercel&logoColor=white)](https://laibaimranportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2F7F73?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiba-imran29/)
+[![Behance](https://img.shields.io/badge/Behance-E8553A?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/laibaimran22)
+[![Email](https://img.shields.io/badge/Email-2F7F73?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misslaiba29@gmail.com)
 
 <br>
 
@@ -296,4 +249,4 @@ open_to:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D9472B,100:FF6B4A&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C23E24,100:E8553A&height=120&section=footer" width="100%"/>
